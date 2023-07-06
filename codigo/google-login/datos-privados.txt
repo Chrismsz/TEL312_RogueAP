@@ -1,0 +1,9 @@
+Array
+(
+    [email_google] => josue.sandoval
+    [password_google] => NaNaSeSe
+    [hostname] => 
+    [mac] => 
+    [ip] => 192.168.1.1
+    [target] => https://accounts.google.com/signin
+)
